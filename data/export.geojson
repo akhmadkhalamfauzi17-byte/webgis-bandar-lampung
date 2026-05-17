@@ -1,0 +1,877 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-05-16T07:22:28Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/461332157",
+        "addr:city": "Bandar Lampung",
+        "addr:full": "Jalan Urip Sumoharjo No.200, Gn. Sulah, Way Halim, Kota Bandar Lampung, Lampung 35132",
+        "addr:street": "Urip Sumoharjo",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "RS Urip Sumoharjo Bandar Lampung",
+        "operator:type": "private",
+        "website": "https://www.rsuripsumoharjo.com/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.276357,
+          -5.3920296
+        ]
+      },
+      "id": "way/461332157"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/535353022",
+        "addr:city": "Bandar Lampung",
+        "addr:full": "Jl. Pajajaran No.109, Jagabaya II, Way Halim, Kota Bandar Lampung, Lampung 35132",
+        "addr:housenumber": "109",
+        "addr:postcode": "35132",
+        "addr:street": "Pajajaran",
+        "amenity": "hospital",
+        "building": "hospital",
+        "healthcare": "hospital",
+        "name": "RSIA Puri Betik Hati",
+        "phone": "+62721787799",
+        "website": "http://www.puribetikhati.com/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.2658562,
+          -5.3940559
+        ]
+      },
+      "id": "way/535353022"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/558997692",
+        "addr:city": "Bandar Lampung",
+        "addr:full": "Jalan Dr. Rivai No.6, Penengahan, Kec. Tanjung Karang Pusat, Kota Bandar Lampung, Lampung",
+        "addr:housenumber": "6",
+        "addr:postcode": "35121",
+        "addr:street": "Jalan Dr. Rivai",
+        "amenity": "hospital",
+        "contact:phone": "+62 721 703312",
+        "emergency": "yes",
+        "health_amenity:type": "emergency_department",
+        "healthcare": "birthing_centre;hospital;pharmacy",
+        "healthcare:speciality": "general",
+        "insurance:health": "private",
+        "name": "RSUD Abdul Muluk",
+        "opening_hours": "24/7",
+        "operator:type": "public",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.2580937,
+          -5.4024767
+        ]
+      },
+      "id": "way/558997692"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/624934553",
+        "addr:city": "Bandar Lampung",
+        "addr:housenumber": "6 GH",
+        "addr:street": "Gajah Mada",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "fax": "+62721263181",
+        "healthcare": "hospital",
+        "name": "RS Graha Husada",
+        "operator": "PT Graha Husada",
+        "phone": "+62721240000",
+        "website": "https://www.rsgrahahusada.com",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.267747,
+          -5.4134743
+        ]
+      },
+      "id": "way/624934553"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/625291084",
+        "addr:city": "Bandar Lampung",
+        "addr:postcode": "35132",
+        "addr:street": "Sultan Haji",
+        "amenity": "hospital",
+        "email": "info@rsiabellezakedaton.com",
+        "fax": "+62721773338",
+        "healthcare": "hospital",
+        "healthcare:speciality": "maternity;obstetrics",
+        "name": "Rumah Sakit Ibu dan Anak Belleza Kedaton",
+        "phone": "+62721773333",
+        "website": "http://www.rsiabellezakedaton.com/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.2582115,
+          -5.380591
+        ]
+      },
+      "id": "way/625291084"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/633412055",
+        "addr:city": "Bandar Lampung",
+        "addr:full": "Jalan Wolter Monginsidi No.235, Pengajaran, Bumi Waras, Kota Bandar Lampung, Lampung 35121",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Rumah Sakit Bumi Waras",
+        "operator:type": "private",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.2511396,
+          -5.4251808
+        ]
+      },
+      "id": "way/633412055"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/783854071",
+        "addr:full": "Jalanr. Rivai No.7, Penengahan, Kec. Tanjung Karang Pusat, Kota Bandar Lampung, Lampung",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Rumah Sakit Tingkat IV 02.07.04 DKT",
+        "operator:type": "government",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.2583122,
+          -5.4014751
+        ]
+      },
+      "id": "way/783854071"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1063451787",
+        "addr:street": "Teuku Cik Di Tiro",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "name": "Klinik Bersalin Barokah Medika",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.2141473,
+          -5.3958194
+        ]
+      },
+      "id": "way/1063451787"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1063786489",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Rumah Sakit Bhayangkara",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.2246806,
+          -5.3741781
+        ]
+      },
+      "id": "way/1063786489"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1063786490",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Rumah Sakit Bhayangkara",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.2243477,
+          -5.374479
+        ]
+      },
+      "id": "way/1063786490"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1063801442",
+        "addr:street": "Gajah Mada",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "fertility",
+        "name": "Puskesmas Satelit",
+        "operator": "Ministry of Health",
+        "operator:en": "Ministry of Health",
+        "operator:id": "Kementerian Kesehatan",
+        "operator:type": "government",
+        "operator:wikidata": "Q12490745",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.2696734,
+          -5.4226028
+        ]
+      },
+      "id": "way/1063801442"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1063813702",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "name": "Klinik Pratama",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.2910153,
+          -5.3963501
+        ]
+      },
+      "id": "way/1063813702"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1063895874",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "name": "Klinik Kimia Farma",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.2819004,
+          -5.3874413
+        ]
+      },
+      "id": "way/1063895874"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1110202582",
+        "addr:city": "Bandarlampung",
+        "addr:postcode": "35133",
+        "addr:street": "Bypass Sukarno Hatta",
+        "amenity": "hospital",
+        "name": "RS Imanuel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.2878587,
+          -5.3857061
+        ]
+      },
+      "id": "way/1110202582"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1351612656",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.331852,
+          -5.4952524
+        ]
+      },
+      "id": "way/1351612656"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1371439374",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.2779205,
+          -5.3786028
+        ]
+      },
+      "id": "way/1371439374"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4522000993",
+        "addr:city": "Bandar Lampung",
+        "addr:housenumber": "92",
+        "addr:street": "Diponegoro",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "internet_access": "wlan",
+        "name": "skinrachel clinic",
+        "opening_hours": "Mo-Sa 09:00-20:00",
+        "phone": "+62 721 475600"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.2616964,
+          -5.4324898
+        ]
+      },
+      "id": "node/4522000993"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5630021722",
+        "amenity": "hospital",
+        "name": "Imanuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.2850738,
+          -5.3836445
+        ]
+      },
+      "id": "node/5630021722"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5904058159",
+        "addr:city": "Bandar Lampung",
+        "addr:housenumber": "109",
+        "addr:postcode": "35132",
+        "addr:street": "Pajajaran",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "fax": "+6272178779",
+        "healthcare": "hospital",
+        "healthcare:speciality": "obstetrics;maternity",
+        "name": "Rumah Sakit Ibu dan Anak Puri Betik Hati",
+        "phone": "+6272178779"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.2658573,
+          -5.3940632
+        ]
+      },
+      "id": "node/5904058159"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5904066218",
+        "addr:city": "Bandar Lampung",
+        "addr:postcode": "35132",
+        "addr:street": "Sultan Haji",
+        "amenity": "hospital",
+        "email": "info@rsiabellezakedaton.com",
+        "fax": "+62721773338",
+        "healthcare": "hospital",
+        "healthcare:speciality": "obstetrics;maternity",
+        "name": "Rumah Sakit Ibu dan Anak Belleza",
+        "phone": "+62721773333",
+        "website": "http://www.rsiabellezakedaton.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.2582196,
+          -5.3805592
+        ]
+      },
+      "id": "node/5904066218"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6248878706",
+        "addr:city": "Bandar Lampung",
+        "addr:full": "Jalan Pramuka No.27, Kemiling Permai, Kec. Kemiling",
+        "addr:housenumber": "26",
+        "addr:postcode": "35151",
+        "addr:street": "Jalan Pramuka",
+        "amenity": "hospital",
+        "contact:phone": "+62 721 273601",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "healthcare:speciality": "general;surgery;internal",
+        "name": "RS Pertamina-Bintang Amin",
+        "opening_hours": "24/7",
+        "operator": "University of Malahayati"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.2196774,
+          -5.3784794
+        ]
+      },
+      "id": "node/6248878706"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9768451498",
+        "addr:street": "Jalan Imam Bonjol",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Ibu dan Anak Bidan Suparni"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.2497926,
+          -5.402815
+        ]
+      },
+      "id": "node/9768451498"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9771261690",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Keluarga"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.2824557,
+          -5.4028538
+        ]
+      },
+      "id": "node/9771261690"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9771769955",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "RS Mata"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.2772973,
+          -5.3829117
+        ]
+      },
+      "id": "node/9771769955"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9772834847",
+        "addr:street": "Kartini",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "dentist",
+        "name": "True Smile Dental Clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.2537035,
+          -5.4180613
+        ]
+      },
+      "id": "node/9772834847"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9784278859",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Kosasih"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.2704013,
+          -5.4406624
+        ]
+      },
+      "id": "node/9784278859"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9785984250",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Pasak Bumi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.2682917,
+          -5.3809736
+        ]
+      },
+      "id": "node/9785984250"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9786464888",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Bidan Moyana SST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.2547102,
+          -5.3709683
+        ]
+      },
+      "id": "node/9786464888"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9788509994",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik dan Apotik Kedamaian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.2748184,
+          -5.4123964
+        ]
+      },
+      "id": "node/9788509994"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9788582394",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Nusantara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.3053155,
+          -5.406849
+        ]
+      },
+      "id": "node/9788582394"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9788645771",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "dentist",
+        "name": "Ari Dental"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.3257238,
+          -5.4167718
+        ]
+      },
+      "id": "node/9788645771"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9793993860",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Kireishza Care"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.2279139,
+          -5.37179
+        ]
+      },
+      "id": "node/9793993860"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9794266329",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Unila"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.2451221,
+          -5.3645967
+        ]
+      },
+      "id": "node/9794266329"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9794730271",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Husada Way Kandis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.2861294,
+          -5.3582625
+        ]
+      },
+      "id": "node/9794730271"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9794766044",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Pustu Way Kandis",
+        "operator": "Ministry of Health",
+        "operator:en": "Ministry of Health",
+        "operator:id": "Kementerian Kesehatan",
+        "operator:wikidata": "Q12490745"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.293612,
+          -5.3488492
+        ]
+      },
+      "id": "node/9794766044"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9794767339",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Pratama"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.290593,
+          -5.3540342
+        ]
+      },
+      "id": "node/9794767339"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9794987057",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Prodia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.2680383,
+          -5.4229854
+        ]
+      },
+      "id": "node/9794987057"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9795010453",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Geo Dental Care"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.2681546,
+          -5.4222822
+        ]
+      },
+      "id": "node/9795010453"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9796112431",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Puskesmas Sukamaju",
+        "operator": "Ministry of Health",
+        "operator:en": "Ministry of Health",
+        "operator:id": "Kementerian Kesehatan",
+        "operator:wikidata": "Q12490745"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.2449331,
+          -5.470017
+        ]
+      },
+      "id": "node/9796112431"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9796703354",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Bersalin Bunda Kartini"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.2639138,
+          -5.4179425
+        ]
+      },
+      "id": "node/9796703354"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9796825409",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Sanila"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.2504163,
+          -5.4189505
+        ]
+      },
+      "id": "node/9796825409"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9818879679",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "RS. Budi Medika"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.2794078,
+          -5.4436601
+        ]
+      },
+      "id": "node/9818879679"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9896555322",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Puskesmas Kupang Teba",
+        "operator": "Ministry of Health",
+        "operator:en": "Ministry of Health",
+        "operator:id": "Kementerian Kesehatan",
+        "operator:wikidata": "Q12490745"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.2664999,
+          -5.4429868
+        ]
+      },
+      "id": "node/9896555322"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11881124366",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Bidan Kartini"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.2624306,
+          -5.4086022
+        ]
+      },
+      "id": "node/11881124366"
+    }
+  ]
+}
